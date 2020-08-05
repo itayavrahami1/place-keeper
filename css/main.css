@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+}
+a{
+    padding: 10px;
+    background-color: chocolate;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 10%;
+}
+.horoscope {
+    display: flex;    
+    justify-content: center;
+}
+
+.horoscope-img{
+    margin-top: 100px;
+    transform: scale(1.5);
+}
+.pref-form-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.user-pref-header{
+    text-align: center;
+}
+
+.submit-btn{
+    text-align: center;
+}
